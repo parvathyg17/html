@@ -1,0 +1,14 @@
+body{
+    background:url('images/1bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+
+h1{
+    font-size: 65px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color:linear-gradient(to right,rgb(0, 40, 187),rgb(98, 0, 117));
+    
+}
