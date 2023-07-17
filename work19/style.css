@@ -1,0 +1,25 @@
+.nav1{
+    background-color:orangered;
+    color: white;
+    padding-left: 300px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+
+.nav2{
+    padding-left: 300px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+.a3{
+    width: 1950px;
+    height: 550px;
+}
+.nav3{
+    position: absolute;
+    left: 1150px;
+}
+.a4{
+    position: absolute;
+    left: -950px
+}
