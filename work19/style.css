@@ -1,7 +1,7 @@
 .nav1{
     background-color:orangered;
     color: white;
-    padding-left: 300px;
+    padding-left: 5px;
     padding-bottom: 3px;
     padding-top: 3px;
 }
@@ -12,7 +12,7 @@
     padding-top: 3px;
 }
 .a3{
-    width: 1950px;
+    width: 1200px;
     height: 550px;
 }
 .nav3{
@@ -22,4 +22,48 @@
 .a4{
     position: absolute;
     left: -950px
+}
+.a5{
+    position: absolute;
+    left: 240px;
+    top: 710px;
+    width: 440px;
+}
+.a6{
+    color:chocolate;
+    padding-top: 10px;
+}
+.b1{
+    padding-top: 10px;
+    padding-right: 420px;
+    padding-left: 220px;
+}
+.b4{
+    padding-top: 10px;
+}
+.b3{
+    padding-bottom: 30px;
+}
+.b0{
+    background-image:url(i3.jpg) ;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c1{
+    border-radius: 25px;
+    background-color:deepskyblue;
+    color: aliceblue;
+    border: none;
+    padding: 10px 20px;
+}
+.z1{
+    border-radius: 20px;
+    border: none;
+}
+.z2{
+    background-color: aliceblue;
+}
+.z3{
+    text-align: center;
 }
