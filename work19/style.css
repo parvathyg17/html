@@ -57,13 +57,53 @@
     border: none;
     padding: 10px 20px;
 }
-.z1{
+.b1 input{
     border-radius: 20px;
     border: none;
+    width: 400px;
 }
-.z2{
+.g1{
+    color: white;
+}
+
+.n2{
     background-color: aliceblue;
+    width: 30px;
+    color: black;
+    text-align: center;
+    padding: -300px;
+    height: 100px;
 }
+
 .z3{
     text-align: center;
+}
+.h3{
+    text-align: center;
+    display: flex;
+}
+.h3 img{
+    width: 400px;
+    height: 400px;
+}
+.h4{
+    list-style: none;
+}
+.h5{
+    color: aliceblue;
+    background-color: black;
+}
+.head4{
+    padding-top: 30px;
+}
+.h6{
+    padding-bottom: 80px;
+}
+.head3{
+    padding-bottom: 30px;
+}
+.li5{
+    color: rgb(80, 88, 88);
+    padding: 10px;
+    font-size: medium;
 }
