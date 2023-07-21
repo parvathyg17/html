@@ -30,20 +30,31 @@
     width: 570px;
     
 }
+.z1{
+    padding-left: 50px;
+    width: 350px;
+    height: 80px;
+    padding-top: 20px;
+    margin-bottom: -20px;
+}
+.z1 input{
+    border: 1px solid rgb(80, 88, 88);
+    border-radius: 10px;
+}
 .a6{
     color:chocolate;
     padding-top: 10px;
 }
-.b1{
-    padding-top: 10px;
-    padding-right: 420px;
-    padding-left: 220px;
-}
+
 .b4{
     padding-top: 10px;
 }
 .b3{
-    padding-bottom: 30px;
+    width: 350px;
+    text-decoration: none;
+    text-align: center;
+    padding-bottom: 90px;
+    padding-left: 144px;
 }
 .b0{
     background-image:url(i3.jpg) ;
@@ -56,7 +67,8 @@
     background-color:deepskyblue;
     color: aliceblue;
     border: none;
-    padding: 10px 20px;
+    padding: 10px;
+    margin-right: 150px;
 }
 .b1 input{
     border-radius: 20px;
@@ -64,16 +76,26 @@
     width: 400px;
 }
 .g1{
-    color: white;
+    color:black;
+    width: 380px;
+    height: 80%;
+    background-color:white;
+    margin: 30px 0;
+    border-radius: 25px;
+    margin-left: 200px;
 }
 
 .n2{
-    background-color: aliceblue;
-    width: 30px;
+    margin: 5px 20px;
+    border-radius: 5px;
+    padding: 20px 40px;
+    background-color: white;
     color: black;
+    transition: padding .1s;
     text-align: center;
-    padding: -300px;
-    height: 100px;
+}
+.n2:hover{
+    padding: 30px 50px;
 }
 
 .z3{
@@ -98,7 +120,9 @@
     padding-top: 30px;
 }
 .h6{
-    padding-bottom: 80px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+    display: flex;
 }
 .head3{
     padding-bottom: 30px;
@@ -113,4 +137,5 @@
 }
 .x1{
     display:flex;
+    margin-right: 140px;
 }
