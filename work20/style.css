@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+.b1{
+    width: 640px;
+    height: 360px;
+}
+.nav1{
+    text-align:right;
+    position: absolute;
+    right:600px
+}
+.head1{
+    margin-right: 200px;
+    font-family:'Playfair Display',serif;
+    font-size:3em;
+    font-weight:900;
+    color:black;
+    width:200px;
+}
