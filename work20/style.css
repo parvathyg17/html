@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
 .b1{
-    width: 640px;
+    width: 1000px;
     height: 360px;
 }
 .nav1{
     text-align:right;
     position: absolute;
-    right:600px
+    right:310px
 }
 .head1{
     margin-right: 200px;
@@ -15,4 +15,32 @@
     font-weight:900;
     color:black;
     width:200px;
+}
+.a1{
+    position: absolute;
+    right:250px;
+    background-color:rgb(2, 2, 24);
+    padding: 70px;
+    font-size: large;
+}
+.c1{
+    color:rgb(255, 199, 94);
+}
+.d1{
+    color: aliceblue;
+    text-decoration: none;
+    font-size:20px;
+    font-weight:700;
+    margin-right: 4px;
+    padding-left: 12px;
+}
+.e1{
+    color: rgb(94, 89, 115);
+    font-size:15px;
+}
+.v1{
+    color: rgb(223, 207, 238);
+}
+.g1{
+    padding-right: 270px;
 }
