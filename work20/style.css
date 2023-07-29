@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
 .b1{
-    width:1000px;
-    height: 360px;
+         
 }
 .nav1{
     text-align:right;
@@ -19,7 +18,9 @@
 .a1{
     background-color:rgb(2, 2, 24);
     padding: 70px;
+    
     font-size: large;
+
 }
 .c1{
     color:rgb(255, 199, 94);
@@ -39,9 +40,7 @@
 .v1{
     color: rgb(223, 207, 238);
 }
-.g1{
-    padding-right: 414px;
-}
+
 .f1{
     color: aliceblue;
     background-color:rgb(246, 95, 81);
