@@ -12,3 +12,21 @@
 .x1{
     text-align: center;
 }
+.y1{
+    border-radius:50%;
+    width: 250px;
+}
+.y2{
+    width:350px;
+}
+.z1{
+    background-color: rgb(238, 244, 250);
+}
+.z2{
+    background-color: aliceblue;
+    text-align: center;
+    padding: auto;
+}
+.z3{
+    background-color: rgb(219, 10, 10);
+}
