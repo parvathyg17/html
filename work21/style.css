@@ -6,6 +6,12 @@
 .b1{
     height: 600px;
 }
+.b2{
+    border-radius: 50% 1px solid black;
+}
+.b4{
+    list-style-type: none;
+}
 .a2{
     text-align: center;
 }
@@ -40,4 +46,14 @@
 .z6{
     background-color:#1d242f;
     color: rgb(201, 202, 204);
+}
+.a3{
+    color: rgb(229, 229, 34);
+}
+.a4{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.b9{
+    
 }
