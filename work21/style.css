@@ -20,7 +20,7 @@
 }
 .y1{
     border-radius:50%;
-    width: 250px;
+    width: 300px;
 }
 .y2{
     width:350px;
@@ -55,5 +55,11 @@
     padding-bottom: 60px;
 }
 .b9{
+    padding-top: 10px;
+}
+.b10{
+    padding-bottom: 60px;
+}
+.m1{
     
 }
