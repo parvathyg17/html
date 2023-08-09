@@ -1,0 +1,45 @@
+.a1{
+    display: flex;
+    background-color: rgb(12, 12, 29);
+    color: aliceblue;
+}
+.h12{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.h1{
+    font-size:xx-large;
+}
+.a3{
+    color: rgb(229, 229, 34);
+} 
+.a4{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.z4{
+    background-color:#212936;
+    color: rgb(201, 202, 204);
+}
+.z5{
+    color: rgb(107, 169, 107);
+}
+.b4{
+    list-style-type: none;
+}
+.b2{
+    border-radius: 50% 1px solid black;
+}
+.x1{
+    text-align: center;
+}
+.z6{
+    background-color:#1d242f;
+    color: rgb(201, 202, 204);
+}
+.b9{
+    padding-top: 10px;
+}
+.b3{
+    width: 120px;
+}

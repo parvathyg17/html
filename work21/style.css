@@ -34,7 +34,7 @@
     padding: auto;
 }
 .z3{
-    background-color: rgb(219, 10, 10);
+    background-color: rgb(237, 236, 236);
 }
 .z4{
     background-color:#212936;
@@ -49,7 +49,7 @@
 }
 .a3{
     color: rgb(229, 229, 34);
-}
+}       
 .a4{
     padding-top: 60px;
     padding-bottom: 60px;
@@ -60,6 +60,23 @@
 .b10{
     padding-bottom: 60px;
 }
-.m1{
-    
+.h9{
+    width: 540px;
+}
+.h10{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.h11{
+    padding-top: 190px;
+    padding-bottom: 50px;
+}
+.h1{
+    font-size:xx-large;
+}
+.h12{
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
