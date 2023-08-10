@@ -1,7 +1,26 @@
 .a1{
     display: flex;
-    background-color: rgb(12, 12, 29);
+    background-color: rgb(29, 29, 37);
     color: aliceblue;
+    padding: 1px;
+}
+.x10{
+    position: relative;
+    left:880px;
+}
+.x11{
+    display: flex;
+}
+.x12{
+    position: relative;
+    left: 20px;
+    right: 20px;
+}
+.v10{
+    color: #1d242f;
+}
+.v11{
+    justify-content: space-between;
 }
 .b1{
     height: 600px;
