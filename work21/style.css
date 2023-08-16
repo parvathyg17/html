@@ -73,8 +73,11 @@
     padding-top: 60px;
     padding-bottom: 60px;
 }
+.a5{
+    color: lightslategray;
+}
 .b9{
-    
+    width: 360px;
 }
 .b10{
     padding-bottom: 60px;
@@ -98,4 +101,11 @@
 .h12{
     padding-top: 10px;
     padding-bottom: 10px;
+}
+.m1{
+    display: flex;
+    justify-content: space-between;
+}
+.m2{
+    color: #b80d0d;
 }
