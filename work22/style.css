@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Permanent+Marker&display=swap');
+
+.h1{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(206, 129, 47);
+}
+.h6{
+    color: rgb(206, 129, 47);
+}
+.a1{
+    position: relative;
+    left: 280px;
+}
+.a2{
+    position: relative;
+    left: 540px;
+}
