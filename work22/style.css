@@ -5,14 +5,39 @@
     font-family: 'Oswald', sans-serif;
     color: rgb(206, 129, 47);
 }
-.h6{
+.a5{
     color: rgb(206, 129, 47);
 }
+.a50{
+    color: rgb(206, 129, 47);
+    border: 1px solid rgb(206, 129, 47);
+    padding: 10px 25px;
+
+}
+.a50:hover{
+    color: white;
+    background-color: rgb(206, 129, 47);
+    padding: 10px 25px;
+    transition: 0.7s;
+}
+
 .a1{
     position: relative;
     left: 280px;
+
 }
 .a2{
     position: relative;
     left: 540px;
+
+}
+.a3{
+    font-size:80px;
+    margin-left:320px;
+    padding-top: 240px;
+    padding-bottom: 440px;
+}
+.a4{
+    background-image: url(i1.jpg);
+    color: aliceblue;
 }
