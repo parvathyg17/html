@@ -7,6 +7,13 @@
 }
 .a5{
     color: rgb(206, 129, 47);
+    text-decoration: none;
+}
+.a5:hover{
+    text-decoration: underline;
+}
+.x5{
+    color: rgb(206, 129, 47);
 }
 .s5{
     background-color: rgb(206, 129, 47);
@@ -28,7 +35,7 @@
     color: rgb(206, 129, 47);
     border: 1px solid rgb(206, 129, 47);
     padding: 10px 25px;
-    margin-right: 1320px;
+    margin-right: 920px;
     margin-top: 20px;
 }
 .a51:hover{
@@ -67,11 +74,57 @@
     background-color: rgb(16, 23, 43);
     color: aliceblue;
     padding-top: 160px;
-    padding-bottom: 320px;
+    padding-bottom: 160px;
     text-align: left;
     padding-left: 360px;
+    padding-right: 360px;
     font-size: 120%;
 }
 .b5{
     padding-top: 70px;
 }
+.b6{
+    padding-top:160px;
+    padding-bottom: 160px;
+    background-color: rgb(5, 9, 22);
+    color: aliceblue;
+}
+.b7{
+    padding-top: 8px;
+}
+.b8{
+    text-align: center;
+    border: 1px solid rgb(26, 40, 77);
+    padding:30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 50px;
+}
+.b9{
+    margin-left: 360px;
+    margin-right:360px ;
+}
+.b10{
+    padding-top: 40px;
+}
+.b11{
+    background-color: rgb(16, 23, 43);
+    color: aliceblue;
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+.b12{
+    padding-left: 420px;
+    padding-right: 420px;
+}
+.b13{
+    padding:20px;
+}
+.b14{
+    padding-top: 40px;
+}
+.b15{
+    padding-top: 90px;
+}
+
+
