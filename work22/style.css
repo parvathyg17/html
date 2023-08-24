@@ -1,6 +1,26 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Permanent+Marker&display=swap');
 
+
+
+.navbar {
+        background-color: rgba(0, 0, 0, 0) !important;
+        transition-property: background-color, color;
+        transition-duration: 0.6s;
+        /*transition-function: ease-in-out; */
+      }
+      
+      .navbar-dark {
+        background-color: rgb(5, 9, 22) !important;
+        color: #ffffff !important;
+      }
+      
+      .navbar-collapse,
+      .navbar-nav,
+      .nav-item {
+        color: inherit !important;
+      }
+
 .h1{
     font-family: 'Oswald', sans-serif;
     color: rgb(206, 129, 47);
@@ -126,5 +146,25 @@
 .b15{
     padding-top: 90px;
 }
+.b16{
+    font-size:x-large;
+}
+.b17{
+    border-radius: 50%;
+    background: none;
+    border-color: rgb(206, 129, 47);
+    padding: 10px;
+    color: rgb(206, 129, 47);
+    display: flex;
+}
+.b17:hover{
+    background-color:  rgb(206, 129, 47);
+    transition: 0.5s;
+}
+.b18{
+    display: flex;
+    margin-left: 470px;
+}
+
 
 
