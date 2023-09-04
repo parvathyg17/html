@@ -6,7 +6,7 @@
 .navbar {
         background-color: rgba(0, 0, 0, 0) !important;
         transition-property: background-color, color;
-        transition-duration: 0.6s;
+        transition-duration: 0.4s;
         /*transition-function: ease-in-out; */
       }
       
@@ -165,6 +165,30 @@
     display: flex;
     margin-left: 470px;
 }
+.b19{
+    display: flex;
+}
+.b20{
+    text-align: right;
+    justify-content:space-between;
+}
+.b21{
+    padding-top: 60px;
+}
+.b50{
+    color: rgb(206, 129, 47);
+    border: 1px solid rgb(206, 129, 47);
+    padding: 10px 25px;
+
+}
+.b50:hover{
+    color: white;
+    background-color: rgb(218, 171, 121);
+    padding: 10px 25px;
+    transition: 0.7s;
+}
+
+
 
 
 
