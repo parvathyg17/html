@@ -10,6 +10,9 @@
 .a3{
     width: 100px;
 }
+.a3:hover{
+    border: white 1px solid;
+}
 .a4{
     font-size:12px;
 }
@@ -25,4 +28,22 @@
 }
 .a8{
     width: 220px;
+}
+.a9{
+    color: aliceblue;
+}
+.a9:hover{
+    border: white 1px solid;
+}
+.a10{
+    display: flex;
+}
+.a11{
+    color: aliceblue;
+}
+.a12{
+    list-style-type: none;
+}
+.a13{
+    background-color: rgb(185, 185, 185);
 }
