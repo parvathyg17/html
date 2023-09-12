@@ -12,6 +12,11 @@
 }
 .a3:hover{
     border: white 1px solid;
+    width: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 .a4{
     font-size:12px;
@@ -25,15 +30,19 @@
     font-size: 15px;
     display: flex;
     margin-bottom: -1px;
+    font-weight: 700;
+    
 }
 .a8{
     width: 220px;
 }
 .a9{
     color: aliceblue;
+    padding:0px;    
 }
 .a9:hover{
     border: white 1px solid;
+    padding: 0px;
 }
 .a10{
     display: flex;
@@ -47,3 +56,17 @@
 .a13{
     background-color: rgb(185, 185, 185);
 }
+.a14{
+    margin-left: 70px;
+}
+.a15{
+    margin-right: 220px;
+}
+.a16{
+    margin-left: -20px;
+    margin-right: -20px;
+}
+.a17{
+    display: flex;
+}
+
