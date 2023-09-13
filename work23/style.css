@@ -1,20 +1,21 @@
 
 .a1{
-    width: 80px;
-    height: 30px;
+    width: 130px;
+    height: 45px;
 }
 .a2{
     display: flex;
     float: right;
+
 }
 .a3{
-    width: 100px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
 }
 .a3:hover{
     border: white 1px solid;
-    width: 100px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -22,12 +23,12 @@
     font-size:12px;
 }
 .a5{
-    font-size: 11px;
+    font-size: 13px;
     margin-left: 18px;
     margin-bottom: -0.5px;
 }
 .a7{
-    font-size: 15px;
+    font-size: 18px;
     display: flex;
     margin-bottom: -1px;
     font-weight: 700;
@@ -37,8 +38,7 @@
     width: 220px;
 }
 .a9{
-    color: aliceblue;
-    padding:0px;    
+    color: aliceblue;    
 }
 .a9:hover{
     border: white 1px solid;
@@ -57,16 +57,20 @@
     background-color: rgb(185, 185, 185);
 }
 .a14{
-    margin-left: 70px;
 }
 .a15{
     margin-right: 220px;
 }
 .a16{
-    margin-left: -20px;
-    margin-right: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
 }
 .a17{
     display: flex;
 }
-
+.a18{
+    width:220px;
+}
+.a19{
+    width: 20px;
+}
